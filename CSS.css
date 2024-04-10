@@ -320,7 +320,7 @@ nav .fas{
 
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(images/mobile-background.png);
+        background-image: url(Images/mobile-background.png);
         
     }
     #header span{
